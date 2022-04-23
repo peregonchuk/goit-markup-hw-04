@@ -1,2 +1,2 @@
-# goit-markup-hw-04
-HomeWork 34. Created by Peregonchuk Oleksii. Kyiv, Ukraine.
+# goit-markup-hw-02
+HomeWork 2. Created by Peregonchuk Oleksii. Kyiv, Ukraine.
