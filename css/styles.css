@@ -123,11 +123,20 @@ img {
   margin-left: auto;
 }
 
+.contact-item:hover .contact-svg path {
+  fill: var(--accent-color);
+}
+
+.contact-svg {
+  margin-right: 10px;
+}
+
 .list-contact .item + .item {
   margin-left: 50px;
 }
 
 .contact-link {
+  display: flex;
   font-weight: 500;
   font-size: 1.1;
   line-height: 16px;
@@ -146,7 +155,10 @@ img {
   padding-bottom: 200px;
 
   text-align: center;
-  background-color: var(--hero-bcgcolor);
+  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+    url('../images/main-screen.png');
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .main-screen__title {
